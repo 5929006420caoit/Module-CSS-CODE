@@ -1,0 +1,20 @@
+/*Body Styling*/
+body {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+/* Heading Styling */
+h1 { 
+    color:gray;
+    font-size: medium;
+}
+/*Paragraph Styling*/
+ul {
+    list-style-type: square;
+}
+/* Image Styling*/
+img { 
+    max-width: 100%;
+    height: auto;
+}
