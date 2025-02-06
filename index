@@ -6,7 +6,7 @@
     <title>Brook's Website</title>
     <link rel="css html code" href="css html code" </head>
     <body>
-        <h1>Welcome to My Websit</h1.>
+        <h1>Welcome to My Website</h1.>
             <p> This is a pargraph styled using an external CSS file.</p>
             <ul>
                 <li>Gold Nugget Earrings</li>
@@ -15,6 +15,7 @@
             </ul>
             <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spoonflower.com%2Fen%2Fshop%2Fcheetah-print-design&psig=AOvVaw0aHzuqePT5VN56W5EUbbHn&ust=1737723062151000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCD2oLxi4sDFQAAAAAdAAAAABAE alt="Cheetah Print" 
          </body>
+    
         </html>
    
     
